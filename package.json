@@ -58,7 +58,7 @@
     "storage"
   ],
   "main": "index.js",
-  "name": "plaid-ghost-s3",
+  "name": "ghost-storage-adapter-s3",
   "repository": {
     "type": "git",
     "url": "https://github.com/colinmeinke/ghost-storage-adapter-s3.git"
